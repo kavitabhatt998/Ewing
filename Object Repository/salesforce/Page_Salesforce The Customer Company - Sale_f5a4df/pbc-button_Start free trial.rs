@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pbc-button_Start free trial</name>
+   <tag></tag>
+   <elementGuidId>425007ec-d68d-4b7d-8783-93b1f1840242</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>pbc-button.cta_button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div/section/div/article/div[2]/div/pbc-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>pbc-button</value>
+      <webElementGuid>794fb925-30ca-4bb1-be0a-3a352fd8ae28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cta_button</value>
+      <webElementGuid>d2aff120-0c38-415e-86c3-f416adbce9f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link-text</name>
+      <type>Main</type>
+      <value>Start free trial</value>
+      <webElementGuid>58bb5f22-8c84-4519-b416-c022d5da6848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link-url</name>
+      <type>Main</type>
+      <value>/in/form/signup/freetrial-sales/?d=jumbo1-btn-ft</value>
+      <webElementGuid>b17ac5a5-4bff-497f-a9ca-5a9bf34b41aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-link-type</name>
+      <type>Main</type>
+      <value>primary cta</value>
+      <webElementGuid>a67591ae-8e61-4e69-b838-b2c76c26ad01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>variant</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>3a5a2226-a043-40a0-93fb-689beb1c1883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stacking</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>907f73de-b0df-45a3-bdd4-8f2266897312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/in/form/signup/freetrial-sales/?d=jumbo1-btn-ft</value>
+      <webElementGuid>2a4af82a-bef1-4d9d-bd08-2b877428eac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a0eda988-3caa-454d-9eaa-007a8e816b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>b485e42e-20e8-41a2-85dc-60b08e5d8e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Start free trial
+    </value>
+      <webElementGuid>a7bdce19-6bc1-4e8b-a26f-7e12347e2ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[1]/section[@class=&quot;relative marquee--blade marquee--right-image&quot;]/div[@class=&quot;container mobile-pb-48 pb-64  pt-64
+            mobile-pt-48&quot;]/article[@class=&quot;grid grid_main grid--onebyone&quot;]/div[@class=&quot;content__wrapper&quot;]/div[@class=&quot;cta_container flex flex--right ctas__2&quot;]/pbc-button[@class=&quot;cta_button&quot;]</value>
+      <webElementGuid>6ffa5582-be2c-4ec5-81d7-347a60ea501a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div/section/div/article/div[2]/div/pbc-button</value>
+      <webElementGuid>02aa375e-e9c7-4675-935b-7ec954500e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI + Data + CRM. It all adds up to customer magic.'])[1]/following::pbc-button[1]</value>
+      <webElementGuid>1321d07f-d257-47cd-b031-1a7f175a8645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::pbc-button[1]</value>
+      <webElementGuid>e131ee8c-dc37-4ebc-91c5-162078e49e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch demo'])[1]/preceding::pbc-button[1]</value>
+      <webElementGuid>16f6c7ab-f1ad-4ffd-9e40-741e544ae26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn what Salesforce products can do for you.'])[1]/preceding::pbc-button[2]</value>
+      <webElementGuid>e36e9423-fb4a-4297-90ca-4fedcfc1bd62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start free trial']/parent::*</value>
+      <webElementGuid>572f0193-43b5-4a2e-904b-95fc292e72b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//pbc-button</value>
+      <webElementGuid>3f21020c-d4be-4fd3-a0db-9abe546616bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//pbc-button[@href = '/in/form/signup/freetrial-sales/?d=jumbo1-btn-ft' and (text() = '
+        Start free trial
+    ' or . = '
+        Start free trial
+    ')]</value>
+      <webElementGuid>ee6e47b9-01e6-4fdb-935b-8d2941bf0c76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

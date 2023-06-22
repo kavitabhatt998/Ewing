@@ -1,3 +1,84 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Enter your first name_UserLastName",
+      "brokenLocator": "//input[@id\u003d\u0027UserLastName\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027main\u0027]/div/div/div[6]/div/div[2]/div/div/div[2]/div/div/div/form/div/div/div[2]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Enter your first name_UserLastName_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Enter your last name_UserEmail",
+      "brokenLocator": "//input[@id\u003d\u0027UserEmail\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027main\u0027]/div/div/div[6]/div/div[2]/div/div/div[2]/div/div/div/form/div[2]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Enter your last name_UserEmail_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/select_Job Title                           _db0756",
+      "brokenLocator": "//select[@id\u003d\u0027UserTitle-N6mH\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Enter a valid email address\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/select_Job Title                           _db0756_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Select your title_CompanyName",
+      "brokenLocator": "//input[@id\u003d\u0027CompanyName-uSJB\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Select your title_CompanyName_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/select_Employees                           _519fae",
+      "brokenLocator": "//select[@id\u003d\u0027CompanyEmployees-sdRq\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Enter your company name\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/select_Employees                           _519fae_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Select employee size_UserPhone",
+      "brokenLocator": "//input[@id\u003d\u0027UserPhone-wB37\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[4]/div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Select employee size_UserPhone_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/div_Enter your stateprovince_checkbox-ui",
+      "brokenLocator": "//form[@id\u003d\u0027signup_form_ktJ4\u0027]/div[5]/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form/div[5]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/div_Enter your stateprovince_checkbox-ui_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Sign up now to start your free sales _9c5179",
+      "brokenLocator": "//input[@id\u003d\u0027UserFirstName-Zs5y\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/salesforce/Page_Free CRM Trial Salesforce 30-Day Trial_2b8e59/input_Sign up now to start your free sales _9c5179_position.png"
+    }
+  ]
 }
