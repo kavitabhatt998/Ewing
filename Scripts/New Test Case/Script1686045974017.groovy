@@ -51,5 +51,7 @@ WebUI.setText(findTestObject('Object Repository/New Folder/Page_CURA Healthcare 
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment'))
 
+WebUI.takeFullPageScreenshotAsCheckpoint('VS ')
+
 WebUI.closeBrowser()
 
