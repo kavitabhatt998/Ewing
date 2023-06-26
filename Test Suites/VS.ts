@@ -18,11 +18,4 @@
       <testCaseId>Test Cases/New Test Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>2d618052-507f-48ce-bc87-b79eaf830e45</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Salesforce</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

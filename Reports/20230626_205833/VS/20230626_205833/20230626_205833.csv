@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VS,Chrome 114.0.0.0,,,2023-06-26 20:58:45,2023-06-26 21:01:46,3m - 1.336s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 114.0.0.0,,,2023-06-26 20:58:45,2023-06-26 20:59:54,1m - 8.690s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-26 20:58:45,2023-06-26 20:58:56,10.233s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 114.0.0.0,,,2023-06-26 20:58:56,2023-06-26 20:59:02,6.300s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 114.0.0.0,,,2023-06-26 20:59:02,2023-06-26 20:59:05,3.247s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control""))",Chrome 114.0.0.0,,,2023-06-26 20:59:05,2023-06-26 20:59:08,2.246s,PASSED
+"setText(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 114.0.0.0,,,2023-06-26 20:59:08,2023-06-26 20:59:12,4.247s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control_1""))",Chrome 114.0.0.0,,,2023-06-26 20:59:12,2023-06-26 20:59:14,1.773s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 114.0.0.0,,,2023-06-26 20:59:14,2023-06-26 20:59:15,1.965s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/button_Login""))",Chrome 114.0.0.0,,,2023-06-26 20:59:15,2023-06-26 20:59:18,2.941s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 114.0.0.0,,,2023-06-26 20:59:18,2023-06-26 20:59:25,6.241s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f""))",Chrome 114.0.0.0,,,2023-06-26 20:59:25,2023-06-26 20:59:26,1.793s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Medicaid_programs""))",Chrome 114.0.0.0,,,2023-06-26 20:59:26,2023-06-26 20:59:28,1.881s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Chrome 114.0.0.0,,,2023-06-26 20:59:28,2023-06-26 20:59:31,2.570s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Chrome 114.0.0.0,,,2023-06-26 20:59:31,2023-06-26 20:59:33,1.662s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/td_14""))",Chrome 114.0.0.0,,,2023-06-26 20:59:33,2023-06-26 20:59:35,2.077s,PASSED
+"setText(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Appointment "")",Chrome 114.0.0.0,,,2023-06-26 20:59:35,2023-06-26 20:59:38,3.801s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 114.0.0.0,,,2023-06-26 20:59:38,2023-06-26 20:59:41,2.766s,PASSED
+"setViewPortSize(2400, 2800)",Chrome 114.0.0.0,,,2023-06-26 20:59:41,2023-06-26 20:59:41,0.150s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""VS "")",Chrome 114.0.0.0,,,2023-06-26 20:59:41,2023-06-26 20:59:54,12.257s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-26 20:59:54,2023-06-26 20:59:54,0.148s,PASSED
+,,,,,,,
+Test Cases/Salesforce,Chrome 114.0.0.0,,,2023-06-26 20:59:54,2023-06-26 21:01:46,1m - 52.169s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-26 20:59:54,2023-06-26 20:59:59,5.442s,PASSED
+"navigateToUrl(""https://www.salesforce.com/in/?ir=1"")",Chrome 114.0.0.0,,,2023-06-26 20:59:59,2023-06-26 21:00:29,29.194s,PASSED
+"setViewPortSize(2400, 2800)",Chrome 114.0.0.0,,,2023-06-26 21:00:29,2023-06-26 21:00:31,2.374s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""VS"")",Chrome 114.0.0.0,,,2023-06-26 21:00:31,2023-06-26 21:01:46,1m - 14.752s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-26 21:01:46,2023-06-26 21:01:46,0.185s,PASSED

@@ -47,11 +47,11 @@ WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/td_14'))
 
+WebUI.setViewPortSize(2400, 2800)
+
 WebUI.setText(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Appointment ')
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment'))
-
-WebUI.setViewPortSize(2400, 2800)
 
 WebUI.takeFullPageScreenshotAsCheckpoint('VS ')
 

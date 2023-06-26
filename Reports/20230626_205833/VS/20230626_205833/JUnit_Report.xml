@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="VS" time="181.336" tests="2" failures="0" errors="0">
+   <testsuite name="VS" tests="2" failures="0" errors="0" time="181.336" skipped="0" timestamp="2023-06-26 20:58:45" hostname="kavitabhatt - 192.168.1.4" id="Test Suites/VS">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/kavitabhatt/git/Ewing/Reports/20230626_205833/VS/20230626_205833"/>
+         <property name="logFiles" value="/Users/kavitabhatt/git/Ewing/Reports/20230626_205833/VS/20230626_205833/execution0.log"/>
+         <property name="attachments" value="keyes/keyes-VS.png, keyes/keyes-VS.png"/>
+         <property name="hostName" value="kavitabhatt - 192.168.1.4"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.5.4.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="sessionId" value="b7c4710d017a068a9695e4454985c6ae"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="68.69" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[2023-06-26 20:58:45 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+2023-06-26 20:58:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-26 20:58:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-26 20:58:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-26 20:58:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-26 20:58:56 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-06-26 20:59:02 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2023-06-26 20:59:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-06-26 20:59:05 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2023-06-26 20:59:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control' is clicked on
+
+2023-06-26 20:59:08 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control' is clicked on
+
+2023-06-26 20:59:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Username_username"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Username_username'
+
+2023-06-26 20:59:12 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Username_username'
+
+2023-06-26 20:59:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control_1")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control_1' is clicked on
+
+2023-06-26 20:59:14 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Demo account_form-control_1' is clicked on
+
+2023-06-26 20:59:14 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Password_password"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Password_password'
+
+2023-06-26 20:59:15 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Password_password'
+
+2023-06-26 20:59:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/button_Login")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-06-26 20:59:18 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2023-06-26 20:59:18 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107"), "Hongkong CURA Healthcare Center", true): All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/New Folder/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+2023-06-26 20:59:25 - [MESSAGE][PASSED] - All options with value 'Hongkong CURA Healthcare Center' are selected in object 'Object Repository/New Folder/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'  using regular expression
+
+2023-06-26 20:59:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+2023-06-26 20:59:26 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f' is clicked on
+
+2023-06-26 20:59:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Medicaid_programs")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+2023-06-26 20:59:28 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Medicaid_programs' is clicked on
+
+2023-06-26 20:59:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+2023-06-26 20:59:31 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+2023-06-26 20:59:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+2023-06-26 20:59:33 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date' is clicked on
+
+2023-06-26 20:59:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/td_14")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/td_14' is clicked on
+
+2023-06-26 20:59:35 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/td_14' is clicked on
+
+2023-06-26 20:59:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/textarea_Comment_comment"), "Appointment "): Text 'Appointment ' is set on object 'Object Repository/New Folder/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+2023-06-26 20:59:38 - [MESSAGE][PASSED] - Text 'Appointment ' is set on object 'Object Repository/New Folder/Page_CURA Healthcare Service/textarea_Comment_comment'
+
+2023-06-26 20:59:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment")): Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+2023-06-26 20:59:41 - [MESSAGE][PASSED] - Object: 'Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+2023-06-26 20:59:41 - [TEST_STEP][PASSED] - setViewPortSize(2400, 2800): Viewport is set to new size with width = 2400 and height = 2800
+
+2023-06-26 20:59:41 - [MESSAGE][PASSED] - Viewport is set to new size with width = 2400 and height = 2800
+
+2023-06-26 20:59:41 - [TEST_STEP][PASSED] - takeFullPageScreenshotAsCheckpoint("VS "): Taking screenshot successfully
+
+2023-06-26 20:59:53 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-06-26 20:59:54 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-VS.png]]
+
+2023-06-26 20:59:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-26 20:59:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Salesforce" time="112.169" classname="Test Cases/Salesforce" status="PASSED">
+         <system-out><![CDATA[2023-06-26 20:59:54 - [TEST_CASE][PASSED] - Test Cases/Salesforce: Test Cases/Salesforce
+
+2023-06-26 20:59:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-26 20:59:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-26 20:59:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-26 20:59:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-26 20:59:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.salesforce.com/in/?ir=1"): Navigate to 'https://www.salesforce.com/in/?ir=1' successfully
+
+2023-06-26 21:00:29 - [MESSAGE][PASSED] - Navigate to 'https://www.salesforce.com/in/?ir=1' successfully
+
+2023-06-26 21:00:29 - [TEST_STEP][PASSED] - setViewPortSize(2400, 2800): Viewport is set to new size with width = 2400 and height = 2800
+
+2023-06-26 21:00:31 - [MESSAGE][PASSED] - Viewport is set to new size with width = 2400 and height = 2800
+
+2023-06-26 21:00:31 - [TEST_STEP][PASSED] - takeFullPageScreenshotAsCheckpoint("VS"): Taking screenshot successfully
+
+2023-06-26 21:01:43 - [MESSAGE][INFO] - 0 hidden object(s)
+
+2023-06-26 21:01:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes/keyes-VS.png]]
+
+2023-06-26 21:01:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-26 21:01:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-26 20:58:45 - [TEST_SUITE][PASSED] - VS: Test Cases/Salesforce]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
