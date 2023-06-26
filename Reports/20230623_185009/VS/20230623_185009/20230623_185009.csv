@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VS,Chrome 114.0.0.0,,,2023-06-23 18:50:21,2023-06-23 18:52:30,2m - 9.016s,PASSED
+,,,,,,,
+Test Cases/Salesforce,Chrome 114.0.0.0,,,2023-06-23 18:50:21,2023-06-23 18:52:30,2m - 8.671s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-23 18:50:21,2023-06-23 18:50:30,8.815s,PASSED
+"navigateToUrl(""https://www.salesforce.com/in/?ir=1"")",Chrome 114.0.0.0,,,2023-06-23 18:50:30,2023-06-23 18:50:45,15.043s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""VS2"")",Chrome 114.0.0.0,,,2023-06-23 18:50:45,2023-06-23 18:52:29,1m - 44.225s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-23 18:52:29,2023-06-23 18:52:30,0.245s,PASSED

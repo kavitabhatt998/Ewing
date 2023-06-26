@@ -51,6 +51,8 @@ WebUI.setText(findTestObject('Object Repository/New Folder/Page_CURA Healthcare 
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/button_Book Appointment'))
 
+WebUI.setViewPortSize(2400, 2800)
+
 WebUI.takeFullPageScreenshotAsCheckpoint('VS ')
 
 WebUI.closeBrowser()
